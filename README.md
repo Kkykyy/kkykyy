@@ -1,6 +1,6 @@
-### Boas vindas ao meu perfil 💙
+### Boas vindas ao meu perfil 💜
 
-Meu nome é Kayky Felipe Bueno
+Meu nome é Kayky Felipe Bueno 
 
 - Estou estudando na [Alura](https://www.alura.com.br)
 - Estou me desenvolvendo na linguagem JavaScript
